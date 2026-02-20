@@ -315,7 +315,7 @@ This project is open source and available for educational purposes.
 If you use this project, please cite as:
 ```
 House Price Prediction Project (2026)
-Author: [Your Name]
+Author: Malaika-Nadeem
 Repository: https://github.com/malaika-nadeem/House_Price_Prediction
 ```
 
