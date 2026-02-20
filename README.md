@@ -1,22 +1,24 @@
- House Price Prediction: Machine Learning Project
+# House Price Prediction: Machine Learning Project
 
- Overview
+## Overview
 
 A machine learning project that predicts house prices based on property features. This project demonstrates an end-to-end ML pipeline: data cleaning, exploration, model training, evaluation, and deployment.
 
-Accuracy: 54.8%** (Linear Regression)
+**Accuracy: 54.8%** (Linear Regression)
 
+---
 
- Problem Statement
+## Problem Statement
 
 Given house features like number of bedrooms, bathrooms, square footage, and year built, can we accurately predict the house price?
 
 This is a **regression problem** - predicting a continuous value (price) from input features.
 
+---
 
- Solution Approach
+## Solution Approach
 
- 1. Data Cleaning
+### 1. Data Cleaning
 - **Original dataset:** 4,600 houses
 - **Found issue:** 49 houses with price = $0 (invalid data)
 - **Action:** Removed invalid entries
@@ -300,23 +302,34 @@ Found issues or have suggestions? Feel free to open an issue or contact me.
 
 This is my first ML project, and feedback helps me improve.
 
+---
 
-License
+## License
 
 This project is open source and available for educational purposes.
 
- How to Cite
+---
+
+## How to Cite
 
 If you use this project, please cite as:
-
+```
 House Price Prediction Project (2026)
-Author: Malaika Nadeem
- 
-Status: Complete ✓  
-Next Project:Coming soon...
+Author: [Your Name]
+Repository: https://github.com/malaika-nadeem/House_Price_Prediction
+```
 
-Quick Stats
+---
 
+**Last Updated:** February 2026  
+**Status:** Complete ✓  
+**Next Project:** Coming soon...
+
+---
+
+## Quick Stats
+
+```
 📊 Dataset: 4,551 houses
 🏘️  Features: 6 predictors  
 ⚙️  Models Trained: 3
@@ -324,5 +337,6 @@ Quick Stats
 📈 Data Quality Impact: 10x improvement
 ⏱️  Project Timeline: 1 day
 🎯 Status: Deployed ✓
+```
 
 Enjoy exploring the project! 🚀
